@@ -38,7 +38,8 @@ jobs:
         run: |
           cp "C:\Users\mehdi\OneDrive\Bureau\HUGO Projects\bin\hugo.exe" ${{ runner.temp }}/hugo.exe
     sudo dpkg -i ${{ runner.temp }}/hugo.exe         
-      
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass
       - name: Checkout
         uses: actions/checkout@v4
         with:
