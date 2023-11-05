@@ -1,0 +1,22 @@
+{
+    "fullName" : {
+        "title": "Name",
+        "icon": "fas fa-user-alt",
+        "content": "Mehdi Lafdali"
+    },
+    "maritalStatus": {
+        "title":"Marital Status",
+        "icon":"fas fa-heart",
+        "content":"Single"
+    },
+    "myBirthday":{
+        "title":"BirthDay",
+        "icon":"fas fa-birthday-cake",
+        "content":"02-06-2001"
+    },
+    "nationality":{
+        "title": "Nationality",
+        "icon": "fas fa-flag",
+        "content":"Moroccan"
+    }
+}

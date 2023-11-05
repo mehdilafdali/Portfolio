@@ -1,0 +1,17 @@
+<div class="card card--half">   
+        <h2>Contact us</h2>
+        <p class="contact-desc"> You can contact me from the following </p>
+        {{ range .Site.Data.contact }}
+        <div class="line">
+            <div class="line_head">
+                <i class="{{ .icon }}"></i>
+                <h3>{{ .title }}</h3>
+            </div>
+            <div class="line_body">
+                <p>
+                    {{ .content }}
+                </p>
+            </div>
+        </div>
+    {{ end }}
+</div>

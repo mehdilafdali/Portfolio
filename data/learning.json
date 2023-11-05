@@ -1,0 +1,20 @@
+{
+    "learning1":{
+        "title": "Data Structre & Algorithm",
+        "icon": "fas fa-graduation-cap",
+        "time": "Sep - 2023",
+        "content": "I have worked and learned Data Structre & Algorithm using C Programming Language"
+    },
+    "learning2":{
+        "title": "Data visualization",
+        "icon": "fa-solid fa-database",
+        "time": "Sep - 2023",
+        "content": "Helping Business Owners to visualize them data and make better decisions"
+    },
+    "learning3":{
+        "title": "Hugo Static Website Devoloper ",
+        "icon": "fa-solid fa-globe",
+        "time": "Jun - 2023",
+        "content": "I have been for a while building static websties for Business owerns & Students "
+    }
+}

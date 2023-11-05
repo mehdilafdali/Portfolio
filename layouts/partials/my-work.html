@@ -1,0 +1,26 @@
+<div class="card card--full">
+    <h2>My Previous work</h2>
+
+    <div class="slides-container" id="work">
+        <div class="slides-container_wraper">
+            {{ range .Site.Data.work }}
+                <div class="slides fade">
+                    <div class="image-holder">
+                        {{ if eq (path.Ext .src) ".mp4" }}
+                            <video controls>
+                                <source src="{{ .src }}" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                        {{ else }}
+                            <img src="{{ .src }}" alt="Gallery">
+                        {{ end }}
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+        <div class="slides-BTNS">
+            <span class="next"><i class="fas fa-chevron-left"></i></span>
+            <span class="prev"><i class="fas fa-chevron-right"></i></span>
+        </div>
+    </div>
+</div>

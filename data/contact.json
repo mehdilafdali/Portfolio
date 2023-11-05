@@ -1,0 +1,17 @@
+{ 
+    "call": {
+        "title": "Phone Number",
+        "icon": "fas fa-phone",
+        "content": "+90 546 658 40 53"
+    },
+    "chat": {
+        "title": "Contact Via WhatsApp",
+        "icon": "fab fa-whatsapp",
+        "content": "+90 546 658 40 53"
+    },
+    "email1": {
+        "title": "Personal email",
+        "icon": "fas fa-envelope",
+        "content": "lafdalimehdi0@gmail.com"
+    }
+}

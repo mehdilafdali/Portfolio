@@ -1,0 +1,32 @@
+{ 
+    "skill2": {
+        "title": "C Programing",
+        "percent": "40%",
+        "color": "#7393B3"
+    },
+    "skill3": {
+        "title": "Power BI",
+        "percent": "55%",
+        "color": "#D4AC0D"
+    },
+    "skill1": {
+        "title": "Excel",
+        "percent": "70%",
+        "color": "#217346"
+    },
+    "skill5": {
+        "title": "HTML5 & CSS3",
+        "percent": "50%",
+        "color": "#6E2C00"
+    },
+    "skill4": {
+        "title": "Java",
+        "percent": "30%",
+        "color": "#ffff00"
+    },
+    "skill6": {
+        "title": "Git & GitHub",
+        "percent": "70%",
+        "color": "#000"
+    }
+}
