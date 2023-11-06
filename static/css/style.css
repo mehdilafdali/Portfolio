@@ -99,7 +99,7 @@ body {
     min-height: 350px;
     width: 100%;
     box-shadow: var(--shadow);
-    background-image: linear-gradient( rgb(99 99 99 / 60%), rgb(0 0 0 / 60%)),url('/images/BG9.jpg');
+    background-image: linear-gradient( rgb(99 99 99 / 60%), rgb(0 0 0 / 60%)),url('images/BG10.jpg');
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
