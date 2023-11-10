@@ -1,4 +1,4 @@
-baseURL = 'https://mehdi-lafdali.me'
+baseURL = 'https://mehdi-lafdali.me/'
 RelativeURLs = true
 languageCode = 'en-us'
 title = 'Portfolio'
