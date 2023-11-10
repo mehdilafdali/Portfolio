@@ -1,4 +1,4 @@
-baseURL = 'https://mehdilafdali.github.io/Portfolio/'
+baseURL = 'https://mehdi-lafdali.me'
 RelativeURLs = true
 languageCode = 'en-us'
 title = 'Portfolio'
